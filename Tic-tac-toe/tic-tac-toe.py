@@ -121,3 +121,4 @@ while True:
         time.sleep(2)
         game_figure = '0' if game_figure == 'X' else 'X'
         player = 'Игрок №2 (0)' if player == 'Игрок №1 (X)' else 'Игрок №1 (X)'
+#salcmzk;
